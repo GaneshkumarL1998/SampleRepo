@@ -1,1 +1,1 @@
-this is remote trail
+this is remote trail.edited in remote repo
